@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Jayanjan Bhattcharya, currently a Computer Science Undergrad.
+# Hey there, this is Jayanjan !
+
+- 👋 I’m currently a Computer Science Undergrad.
 - 👀 I’m interested in Data Science domains alongwith basic web development stuff.
 - 🌱 I’m currently exploring the Data Analytics domain.
 - 📫 [Click to reach me !!!](https://www.linkedin.com/in/jayanjan-bhattacharya-62190271/)
